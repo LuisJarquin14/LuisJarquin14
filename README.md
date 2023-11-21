@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LuisJarquin14
-- 👀 I’m interested in the music and programing 😁
-- 🌱 I’m currently learning Django 📕
-- 💞️ I’m looking to collaborate on a big company ✔
-- 📫 Reach me in instagram, facebook, twitter and youtube how "EnriqueDrum" 👍
+- 👋 Hola, soy @LuisJarquin14
+- 👀 Me interesa la música y la programación 😁
+- 🌱 Actualmente soy un programador JUNIOR pero mi meta es ser un FULL STACK SENIOR 📕
+- 💞️ Busco colaborar en una gran empresa ✔
+- 📫 Contactame a mi correo: luisjarquin.14@hotmail.com 👍
 
 <!---
-LuisJarquin14/LuisJarquin14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+LuisJarquin14/LuisJarquin14 es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
+Puede hacer clic en el enlace Vista previa para ver los cambios.
 --->
