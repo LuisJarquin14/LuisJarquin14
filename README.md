@@ -1,16 +1,15 @@
-## Hi there 👋
+### 📎 Quien Soy?
 
-<!--
-**LuisJarquin14/LuisJarquin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Luis Enrique Jarquin, un joven panameño de 27 años amante de la tecnología. Soy un apasionado por la programación y el desarrollo web. Me encanta aprender y compartir conocimiento, y soy creyente del aprendizaje continuo.
 
-Here are some ideas to get you started:
+Estoy en busca de una oportunidad laboral en el campo de la programación, me encanta trabajar en equipo y me encanta aprender de otros. Estoy abierto a proyectos y oportunidades laborales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Tecnologías que uso
+
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) ![NodeJS](./assets/nodejs.svg) ![Git](./assets/git.svg) ![Wordpress](./assets/wordpress.svg)
+
+#### 📧 Correo
+
+Para mas información puede contactarme a traves de mi correo:
+
+[luisjarquin.14@hotmail.com](mailto:luisjarquin.14@hotmail.com)
