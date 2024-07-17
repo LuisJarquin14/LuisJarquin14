@@ -1,15 +1,21 @@
-### 📎 Quien Soy?
+# 💫 Sobre mi:
 
-Mi nombre es Luis Enrique Jarquin, un joven panameño de 27 años amante de la tecnología. Soy un apasionado por la programación y el desarrollo web. Me encanta aprender y compartir conocimiento, y soy creyente del aprendizaje continuo.
+Mi nombre es Luis Enrique Jarquin, un joven panameño de 27 años amante de la tecnología. Soy un apasionado por la programación y el desarrollo web. Me encanta aprender y compartir conocimiento, y soy creyente del aprendizaje continuo.<br><br>
+Estoy en busca de una oportunidad laboral en el campo de la programación, me encanta trabajar en equipo y me encanta aprender de otros. Estoy abierto a proyectos y oportunidades laborales.<br>
 
-Estoy en busca de una oportunidad laboral en el campo de la programación, me encanta trabajar en equipo y me encanta aprender de otros. Estoy abierto a proyectos y oportunidades laborales.
+---
 
-#### 💻 Tecnologías que uso
+## 🌐 Redes Sociales:
 
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) ![NodeJS](./assets/nodejs.svg) ![Git](./assets/git.svg) ![Wordpress](./assets/wordpress.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-enrique-jarquin-cornejo-287145228/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF4500.svg?logo=instagram&logoColor=white)](https://www.instagram.com/enriquedrum/)
+[![X](https://img.shields.io/badge/X-FF4500.svg?logo=x&logoColor=white)](https://x.com/enriquedrum)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/luis.e.jarquin/)
 
-#### 📧 Correo
+---
 
-Para mas información puede contactarme a traves de mi correo:
+# 💻 Tecnologias que utilizo:
 
-[luisjarquin.14@hotmail.com](mailto:luisjarquin.14@hotmail.com)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+---
