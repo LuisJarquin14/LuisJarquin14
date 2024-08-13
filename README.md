@@ -1,16 +1,29 @@
 # 💫 Sobre mi:
 
-Mi nombre es Luis Enrique Jarquin, un joven panameño de 27 años amante de la tecnología. Soy un apasionado por la programación y el desarrollo web. Me encanta aprender y compartir conocimiento, y soy creyente del aprendizaje continuo.<br><br>
-Estoy en busca de una oportunidad laboral en el campo de la programación, me encanta trabajar en equipo y me encanta aprender de otros. Estoy abierto a proyectos y oportunidades laborales.<br>
+<p style="font-size: 14px; color: white;">Mi nombre es <strong>Luis Enrique Jarquin</strong>, panameño de <strong>27 años</strong> amante de la programación y el desarrollo web.
+Me encanta aprender y compartir conocimiento, y soy creyente del aprendizaje continuo.<br><br>
+Estoy en busca de una oportunidad laboral y como una de mis grandes habilidades blandas, cabe destacar que me encanta trabajar en equipo y aprender de los demás.
+</p>
+<h1 style="color: yellow; font-weight: bold;">Estoy abierto a proyectos y oportunidades laborales.</h1>
+
+---
+
+# 📧 Contacto:
+
+<p style="font-size: 14px; color: white;">
+    <strong>Email:</strong> <a href="mailto:luisjarquin.14@hotmail.com" target="_blank" rel="noopener noreferrer">luisjarquin.14@hotmail.com</a><br>
+    <strong>Teléfono:</strong> +507 6696-3027<br>
+    <strong>Ubicación:</strong> Ciudad de Panamá, Panamá Oeste<br>
+</p>
 
 ---
 
 ## 🌐 Redes Sociales:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-enrique-jarquin-cornejo-287145228/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF4500.svg?logo=instagram&logoColor=white)](https://www.instagram.com/enriquedrum/)
-[![X](https://img.shields.io/badge/X-FF4500.svg?logo=x&logoColor=white)](https://x.com/enriquedrum)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/luis.e.jarquin/)
+<a href="https://www.linkedin.com/in/luis-enrique-jarquin-cornejo-287145228/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/enriquedrum/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-FF4500.svg?logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/enriquedrum" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-FF4500.svg?logo=x&logoColor=white" /></a>
+<a href="https://www.facebook.com/luis.e.jarquin/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white" /></a>
 
 ---
 
