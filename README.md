@@ -1,4 +1,4 @@
-# 💫 Sobre mi:
+# 📝 Sobre mi:
 
 <p style="font-size: 14px; color: white;">Mi nombre es <strong>Luis Enrique Jarquin</strong>, panameño de <strong>27 años</strong> amante de la programación y el desarrollo web.
 Me encanta aprender y compartir conocimiento, y soy creyente del aprendizaje continuo.<br><br>
@@ -20,7 +20,6 @@ Estoy en busca de una oportunidad laboral y como una de mis grandes habilidades 
 
 ## 🌐 Redes Sociales:
 
-<a href="https://www.linkedin.com/in/luis-enrique-jarquin-cornejo-287145228/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/enriquedrum/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-FF4500.svg?logo=instagram&logoColor=white" /></a>
 <a href="https://x.com/enriquedrum" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-FF4500.svg?logo=x&logoColor=white" /></a>
 <a href="https://www.facebook.com/luis.e.jarquin/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white" /></a>
